@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_name_array">
+        <item>Speed</item>
+        <item>Navigation</item>
+        <item>AppList</item>
+    </string-array>
+
+</resources>
